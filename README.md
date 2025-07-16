@@ -37,7 +37,8 @@ I'm a cloud computing enthusiast currently learning and exploring various cloud 
 
 📫 Get in Touch
 Feel free to reach out to me via:
-- [LinkedIn]: https://www.linkedin.com/in/pragati-palabhavi/
+## Connect with me!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_PROFILE_URL](https://www.linkedin.com/in/pragati-palabhavi/)
 
 
 ⚡Fun Fact
